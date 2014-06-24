@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-arrow-buttons",
+  "version": "0.1.0",
+  "homepage": "https://github.com/shpoont/bootstrap-arrow-buttons",
+  "authors": [
+    "Leonid Komarovsky <leonid@komarovsky.info>"
+  ],
+  "description": "Arrow shaped buttons for bootstrap",
+  "main": "dist/css/bootstrap-arrow-buttons.css",
+  "keywords": [
+    "bootstrap",
+    "css",
+    "buttons",
+    "arrows"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": ">=3.0.0"
+  }
+}
